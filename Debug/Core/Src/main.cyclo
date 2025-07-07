@@ -1,0 +1,15 @@
+../Core/Src/main.c:99:5:__io_putchar	2
+../Core/Src/main.c:113:5:main	14
+../Core/Src/main.c:241:6:SystemClock_Config	4
+../Core/Src/main.c:293:13:MX_NVIC_Init	1
+../Core/Src/main.c:310:6:HAL_GPIO_EXTI_Callback	10
+../Core/Src/main.c:353:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:373:6:calculateErrors	1
+../Core/Src/main.c:380:6:pidControl_speed	3
+../Core/Src/main.c:395:6:pidControl_pos	3
+../Core/Src/main.c:420:6:Moter_Init	1
+../Core/Src/main.c:426:6:Moter_Start	1
+../Core/Src/main.c:432:6:Moter_Reverse_Start	1
+../Core/Src/main.c:438:6:Moter_Stop	1
+../Core/Src/main.c:444:10:getUserInput	4
+../Core/Src/main.c:471:6:Error_Handler	1
