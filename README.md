@@ -9,3 +9,4 @@ Core/Src/main.c 파일을 위주로 봐주시면 감사하겠습니다.
 <img width="100%" src="https://github.com/user-attachments/assets/822ba86d-f1ba-48e2-9918-6723209c066d" />
 <img width="100%" src="https://github.com/user-attachments/assets/eba4e97d-4f04-422c-a9e5-5c9cf4c0631a" />
 <img width="100%" src="https://github.com/user-attachments/assets/9f1268d3-6025-4a50-bf2d-6a1d665f3074" />
+<img width="100%" src="https://github.com/user-attachments/assets/d7e9ccaa-fddf-4cd0-b162-fb5912ac5710" />
