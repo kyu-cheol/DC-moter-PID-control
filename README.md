@@ -14,3 +14,4 @@ Core/Src/main.c 파일을 위주로 봐주시면 감사하겠습니다.
 <img width="100%" src="https://github.com/user-attachments/assets/fdce0449-c896-4045-b364-9550669d1553" />
 <img width="100%" src="https://github.com/user-attachments/assets/2c700d65-3040-450d-881d-09f1bceacb54" />
 <img width="100%" src="https://github.com/user-attachments/assets/1349dc4b-1458-44c2-af93-362eb26c254a" />
+<img width="100%" src="https://github.com/user-attachments/assets/9924b90a-1d3d-45e2-96a7-944b443b1736" />
