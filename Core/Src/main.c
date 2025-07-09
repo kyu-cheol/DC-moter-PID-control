@@ -318,7 +318,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 			} else {
 				enc_pos_cnt--;
 			}
-		} else {																			// A channel falling edge.
+		} else {											// A channel falling edge.
 			if (HAL_GPIO_ReadPin(ENCODER_B_INPUT_GPIO_Port, ENCODER_B_INPUT_Pin) == 0) {
 				enc_pos_cnt++;
 			} else {
@@ -336,7 +336,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 			} else {
 				enc_pos_cnt--;
 			}
-		} else {																			// B channel falling edge.
+		} else {											// B channel falling edge.
 			if (HAL_GPIO_ReadPin(ENCODER_A_INPUT_GPIO_Port, ENCODER_A_INPUT_Pin) == 1) {
 				enc_pos_cnt++;
 			} else {
@@ -373,8 +373,8 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 void calculateErrors(void)
 {
 	errorGap = (float)target_state - current_state - realError;	// D control
-	realError = (float)target_state - current_state;			// P control
-	accError += realError * dt;									// I control
+	realError = (float)target_state - current_state;		// P control
+	accError += realError * dt;					// I control
 }
 
 void pidControl_speed(void)
